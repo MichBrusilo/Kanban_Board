@@ -1,0 +1,51 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+}
+
+.board {
+  margin: 20px 30px;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  font-size: 3em;
+  color: #d63031;
+}
+
+.create-column {
+  border-color: #00b894;
+	color: #00b894;
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 10px;
+}
+
+.column-container {
+  color: #00b894;
+  background-color: #fdcb6e;
+  height: 800px;
+}
+
+.column {
+  background-color: #fdcb;
+  display: inline-block;
+  margin: 2px;
+}
+.btn-delete {
+  color: red;
+}
+.add-card {
+  color: #e17055;
+}
+.card {
+  border: 1px solid #81ecec;
+  margin: 10px;
+  padding: 2px;
+  background-color: #55efc4;
+}
+ul li {
+  list-style-type: none;
+}
+
